@@ -1,0 +1,27 @@
+site_name: 森警数分团结构化知识库
+theme:
+  name: material
+  language: zh
+  features:
+    - instant
+    - tabs
+  palette:
+    primary: indigo
+    accent: indigo
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+nav:
+    - 知识库主页: 'index.md'
+    - 机器学习: 'ml/index.md'
+    - 自然语言处理: 'nlp/index.md'
+    - 深度学习: 'dl/index.md'
+
+
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
