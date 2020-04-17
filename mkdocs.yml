@@ -5,18 +5,19 @@ theme:
   features:
     - instant
     - tabs
-  palette:
-    primary: indigo
-    accent: indigo
+  # palette:
+  #   primary: indigo
+  #   accent: indigo
   font:
     text: Roboto
     code: Roboto Mono
 
-nav:
-    - 知识库主页: 'index.md'
-    - 机器学习: 'ml/index.md'
-    - 自然语言处理: 'nlp/index.md'
-    - 深度学习: 'dl/index.md'
+# nav:
+#     - 知识库主页: 'index.md'
+#     - 机器学习: 'ml/index.md'
+#     - 自然语言处理: 'nlp/index.md'
+#     - 深度学习: 'dl/index.md'
+
 
 
 markdown_extensions:
