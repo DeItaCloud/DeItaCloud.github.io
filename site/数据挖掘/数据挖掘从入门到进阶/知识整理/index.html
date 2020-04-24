@@ -1264,14 +1264,18 @@
 <h4 id="_13">类别特征变换<a class="headerlink" href="#_13" title="Permanent link">&para;</a></h4>
 <h5 id="_14">定类特征<a class="headerlink" href="#_14" title="Permanent link">&para;</a></h5>
 <p>定类特征数值是名义型特征，大小和插值均无意义</p>
-<p><strong>特别推荐：</strong>
- - <a href="https://zhuanlan.zhihu.com/p/67475635">特征编码方法总结1</a>
- - <a href="https://zhuanlan.zhihu.com/p/68259539">特征编码方法总结2</a></p>
-<ol>
-<li>类别少&lt;10进行独热（one-hot）编码</li>
+<p><strong>特别推荐：</strong></p>
+<ul>
+<li><a href="https://zhuanlan.zhihu.com/p/67475635">特征编码方法总结1</a></li>
+<li>
+<p><a href="https://zhuanlan.zhihu.com/p/68259539">特征编码方法总结2</a></p>
+</li>
+<li>
+<p>类别少&lt;10进行独热（one-hot）编码</p>
+</li>
 <li>类别多可以进行聚类后再one-hot，也可以使用embedding的方法：
    embedding也是内容十分丰富的知识点，作品有例如DBN、自动编码器等，感兴趣可以深入研究，这个思想和cv中利用CNN形成的feature map作为特征进行图像检索、nlp中word2vec非常相似。另外也可以进行推广，对非类别特征也可以进行embedding，这个思维就类似从CNN中提取feature map，只不过被编码的不是图像，而是结构化数据（一般将与目标字段相关性较低的数据维度进行embedding降维编码，这样避免了数据的浪费）</li>
-</ol>
+</ul>
 <h5 id="_15">定序特征<a class="headerlink" href="#_15" title="Permanent link">&para;</a></h5>
 <p>定序特征按特性排序，大小有意义，差值无意义</p>
 <ol>
@@ -1280,10 +1284,18 @@
 </ol>
 <h3 id="_16">异常值处理<a class="headerlink" href="#_16" title="Permanent link">&para;</a></h3>
 <ol>
-<li>3σ法则</li>
-<li>数量少可以直接删除</li>
-<li>数量多或者有影响可以截断或者统计值替换</li>
-<li>箱型图、小提琴图分析</li>
+<li>
+<p>3σ法则</p>
+</li>
+<li>
+<p>数量少可以直接删除</p>
+</li>
+<li>
+<p>数量多或者有影响可以截断或者统计值替换</p>
+</li>
+<li>
+<p>箱型图、小提琴图分析</p>
+</li>
 </ol>
 <h3 id="_17">缺失值处理<a class="headerlink" href="#_17" title="Permanent link">&para;</a></h3>
 <ol>
@@ -1303,11 +1315,23 @@
 <li>统计量构造</li>
 <li>类别构造（交叉组合/embedding编码）\
    某字段类型替换为按该字段groupby的某特征的统计量，这样既构造了特征，又将两列特征变为一列</li>
-<li>时间序列（移动平均、同日期统计值）这也是研究热点难点，可以深入研究</li>
-<li>多项式回归（对线性相关性较低，但是弃之可惜的特征字段）</li>
+<li>
+<p>时间序列（移动平均、同日期统计值）这也是研究热点难点，可以深入研究</p>
+</li>
+<li>
+<p><a href="../docs/%E5%BA%94%E7%94%A8%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E5%88%86%E6%9E%90%28%E4%BD%95%E4%B9%A6%E5%85%83%29.pdf">应用时间序列分析(何书元).pdf</a></p>
+</li>
+<li>
+<p><a href="./金融时间序列分析.pdf">金融时间序列分析.pdf</a></p>
+</li>
+<li>
+<p>多项式回归（对线性相关性较低，但是弃之可惜的特征字段）</p>
+</li>
+<li>
+<p>另外基于双线性回归的思想，可以直接选择FM/FFM模型</p>
+</li>
 </ol>
-<p>PS：另外基于双线性回归的思想，可以直接选择FM/FFM模型
-https://www.jianshu.com/p/1db7404689c5</p>
+<p>https://www.jianshu.com/p/1db7404689c5</p>
 <h3 id="_20">特征选择<a class="headerlink" href="#_20" title="Permanent link">&para;</a></h3>
 <h4 id="_21">过滤法<a class="headerlink" href="#_21" title="Permanent link">&para;</a></h4>
 <p>根据方差（方差大的信息多）、相关性（与目标字段相关的特征重要）选择特征。具体方法：</p>
