@@ -5,6 +5,9 @@
 绝佳的开源实践课程：
 https://mp.weixin.qq.com/s/Em9gZehlYQ-SLp75AUre5g
 
+## 冠军思路
+https://mp.weixin.qq.com/s/TzFB0GmL10r3ZKDDkB8x_A
+
 ## 知识整理
 该知识整理内容仅为**复盘知识整理**部分，详见[知识整理](./知识整理.md),以下为零基础入门数据挖掘之二手车预测大赛笔记的文档，详细流程见[@夏凡](https://gitee.com/sovlookup/ai_learning_notes/tree/master/%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98%E4%B9%8B%E4%BA%8C%E6%89%8B%E8%BD%A6%E9%A2%84%E6%B5%8B)的gitee仓库
 

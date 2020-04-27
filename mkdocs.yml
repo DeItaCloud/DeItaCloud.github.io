@@ -1,4 +1,4 @@
-site_name: 森警数分团结构化知识库
+site_name: 结构化知识库
 theme:
   name: material
   language: zh
@@ -19,10 +19,36 @@ theme:
 #     - 深度学习: 'dl/index.md'
 
 
+# - pymdownx.emoji:
+#   emoji_index: !!python/name:pymdownx.emoji.twemoji
+#   emoji_generator: !!python/name:pymdownx.emoji.to_svg
 
 markdown_extensions:
   - admonition
+  - footnotes
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tabbed
+  - pymdownx.tilde
   - codehilite:
       guess_lang: false
   - toc:
       permalink: true
+
+extra_javascript:
+  - javascripts/extra.js
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML
