@@ -1,4 +1,9 @@
 # 计算机视觉
+
+## 百度入门指导
+
+https://www.bilibili.com/video/BV1Xf4y1S7on?t=3470
+
 ## 数据预处理
 1. [图片数据扩增方法](https://mp.weixin.qq.com/s/fdqsA5q06GXsnF13uKhGOQ)
 
