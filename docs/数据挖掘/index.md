@@ -15,3 +15,14 @@
 ## 数据挖掘基本流程
 
 详见[数据挖掘从入门到进阶](./数据挖掘从入门到进阶/index.md)
+
+## 书籍
+
+1. [多元统计分析__第4版part1.pdf](./docs/多元统计分析__第4版part1.pdf)
+2. [多元统计分析__第4版part2.pdf](./docs/多元统计分析__第4版part2.pdf)
+3. [计量经济学基础(第四版)中文.pdf](./docs/计量经济学基础(第四版)中文.pdf)
+4. [李子奈计量经济学.pdf](./docs/李子奈计量经济学.pdf)
+5. [数据挖掘导论(完整版).Introduction.To.Data.Min.pdf](./docs/数据挖掘导论(完整版).Introduction.To.Data.Min.pdf)
+6. [数据挖掘概念与技术第二版.pdf](./docs/数据挖掘概念与技术第二版.pdf)
+7. [统计学_第7版.pdf](./docs/统计学_第7版.pdf)
+8. [运筹学导论第九版.pdf](./docs/运筹学导论第九版.pdf)

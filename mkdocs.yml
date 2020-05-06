@@ -44,8 +44,8 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.tabbed
   - pymdownx.tilde
-  - codehilite:
-      guess_lang: false
+  # - codehilite:
+  #     guess_lang: false
   - toc:
       permalink: true
 
