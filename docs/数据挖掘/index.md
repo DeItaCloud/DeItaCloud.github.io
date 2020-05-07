@@ -12,10 +12,12 @@
 
 结构化数据
 
-## 数据挖掘基本流程
+## 数据挖掘基本流程(入门)
 
 详见[数据挖掘从入门到进阶](./数据挖掘从入门到进阶/index.md)
 
+另外：
+1. [手把手数据分析实战](https://mp.weixin.qq.com/s/PmbiJjMJomrbr7KWkrivyQ)
 ## 书籍
 
 1. [多元统计分析__第4版part1.pdf](./docs/多元统计分析__第4版part1.pdf)

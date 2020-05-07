@@ -1,4 +1,8 @@
 # 自然语言处理
+
+
+[预训练模型在机器翻译中的运用](https://mp.weixin.qq.com/s/yIBCeDa54_n1G4bg4CjQLw)
+## 实践
 [word embedding最佳实践.html](./word&#32;embedding最佳实践.html)
 
 [基于CYK算法的成分句法解析.html](./基于CYK算法的成分句法解析.html)
