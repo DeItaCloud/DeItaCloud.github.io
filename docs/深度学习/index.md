@@ -4,7 +4,8 @@
 
 ## 书籍
 
-[TensorFlow2深度学习.pdf](./docs/TensorFlow2深度学习.pdf)
+1. [TensorFlow2深度学习.pdf](./docs/TensorFlow2深度学习.pdf)
+2. [Dive-into-DL-Pytorch.pdf](./docs/Dive-into-DL-Pytorch.pdf)
 
 ## 实战
 [基于卷积神经网络的图像分类.html](./基于卷积神经网络的图像分类.html)
