@@ -12,6 +12,7 @@ https://www.bilibili.com/video/BV1Xf4y1S7on?t=3470
 1. [从入门到进阶](https://mp.weixin.qq.com/s/jv6PvFHsweK_rFOuz-p-mg)
     [直播课](https://tianchi.aliyun.com/course/live?liveId=41153)
 
+2. [使用PaddleDetection的yolov3](https://aistudio.baidu.com/aistudio/projectdetail/441868)
 ## 图像分割
 
 1. [图像分割](https://mp.weixin.qq.com/s/r6FBZH3T6l-4y5akjJoojg)
