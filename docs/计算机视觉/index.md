@@ -1,5 +1,8 @@
 # 计算机视觉
 
+## 知识
+
+1. [从yolov1-4](https://mp.weixin.qq.com/s/rerF3rmdcNZGxgoO2hqmiA)
 ## 百度入门指导
 
 https://www.bilibili.com/video/BV1Xf4y1S7on?t=3470
