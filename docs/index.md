@@ -2,7 +2,8 @@
 
 **成员们共创的知识库**[^1]
 
-
+仓库地址,欢迎提PR加入你的笔记
+[https://github.com/DeItaCloud/DeItaCloud.github.io](https://github.com/DeItaCloud/DeItaCloud.github.io)
 ---
 感谢如下成员的贡献:
 
