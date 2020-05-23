@@ -5,9 +5,9 @@ theme:
   features:
     - instant
     - tabs
-  # palette:
-  #   primary: indigo
-  #   accent: indigo
+  palette:
+    primary: indigo
+    accent: indigo
   font:
     text: Roboto
     code: Roboto Mono
@@ -44,8 +44,6 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.tabbed
   - pymdownx.tilde
-  # - codehilite:
-  #     guess_lang: false
   - toc:
       permalink: true
 
