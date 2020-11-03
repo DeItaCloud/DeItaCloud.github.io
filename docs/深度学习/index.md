@@ -19,3 +19,9 @@
 
 ## PaddlePaddle C++模型部署
 https://github.com/PaddlePaddle/PaddleX/tree/develop/deploy
+
+## 我的第一次AI实战
+
+使用paddlejs的前端智能化小程序 计算机设计大赛国二等奖
+
+https://developers.weixin.qq.com/community/develop/article/doc/0004a8aa2aca2812edcaf2b4b56813
