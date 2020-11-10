@@ -24,7 +24,7 @@ https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.21.1cd866c2
  - **使用nni搜索超参**
  - **本流程LGB得分522**
  - **相关知识点资料已经整理完毕**
-  
+
 注意要点：
 
 - **模型已经保存在链接：https://pan.baidu.com/s/1uE6JoqWaF7yQD9fqUbF58w 提取码：9unh 读取方法见[模型读取.txt]**
@@ -63,6 +63,14 @@ PS:资料来源于datawhale官方和参加打卡的小伙伴的笔记分享等
 
 ## TASK5
 模型融合
+
+
+
+# 其他
+
+[课堂笔记](./课堂笔记.md)
+
+
 
 ---------
 
