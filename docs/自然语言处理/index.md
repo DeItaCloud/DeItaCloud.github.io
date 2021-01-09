@@ -19,3 +19,8 @@
 
 [基于卷积神经网络的文本分类.html](./基于卷积神经网络的文本分类.html)
 
+
+
+## 手册
+
+链接: https://pan.baidu.com/s/1AswopUv4r7RYdark1CJjqA  密码: rvba

@@ -3,8 +3,11 @@
 ## 基本知识
 
 1. [基本算法优缺点对比](https://mp.weixin.qq.com/s/99f_Wps9x9c_N1pIpoKDLg)
+
 2. 三大神器 傻瓜操作：
-|传统机器学习|nlp分类|cv分类检测|
+
+   
+|机器学习|nlp|cv|
 |-|-|-|
 |[pycaret](https://mp.weixin.qq.com/s/5DMJn85ME8LqUCewc5OWBg)|snownlp|imageai|
 3. [小样本怎么学习？](https://zhuanlan.zhihu.com/p/126347534?utm_source=wechat_session&utm_medium=social&utm_oi=1003949291018289152)
@@ -46,3 +49,9 @@
 [集成学习与随机森林.html](./集成学习与随机森林.html)
 
 [马尔可夫网络.html](./马尔可夫网络.html)
+
+
+
+## PPT作图
+
+[ML Visuals by dair.ai.pptx](./docs/ai.pptx)
