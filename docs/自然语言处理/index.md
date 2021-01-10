@@ -24,3 +24,10 @@
 ## 手册
 
 链接: https://pan.baidu.com/s/1AswopUv4r7RYdark1CJjqA  密码: rvba
+
+## 打卡学习
+
+１．　[知识图谱打卡(0).md](./Datawhale7days/知识图谱打卡(0).md)
+
+
+

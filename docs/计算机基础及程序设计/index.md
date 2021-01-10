@@ -20,6 +20,3 @@ https://mp.weixin.qq.com/s/Zou0R6JCOLg-VGtr7J03zg
 
 1. [尚硅谷_韩顺平_Go语言核心编程.pdf](./docs/尚硅谷_韩顺平_Go语言核心编程.pdf)
 
-## R
-
-1. [R语言基础](./R语言/R.md)
