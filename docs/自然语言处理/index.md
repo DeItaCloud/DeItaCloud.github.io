@@ -27,7 +27,7 @@
 
 ## 打卡学习
 
-１．　[知识图谱打卡(0).md](./Datawhale7days/知识图谱打卡(0).md)
+１．　[知识图谱打卡(0).md](./Datawhale7days/nlpdatawhale7days.md)
 
 
 
