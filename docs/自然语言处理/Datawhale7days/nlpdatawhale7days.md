@@ -173,3 +173,19 @@ Peak memory usage: 1.004GiB
 
 ```
 
+## 打卡２
+
+clone from this repo:https://github.com/zhihao-chen/QASystemOnMedicalGraph
+
+今天启动医药问答系统，有点小激动，在部署过程中遇到的坑：
+
+1. 文件夹名称data -> DATA
+
+2. 协议名称http -> bolt
+
+3. sklearn版本0.20.4
+
+   部署成功：
+
+   ![](https://s3.ax1x.com/2021/01/12/sJaC5t.md.png)
+
