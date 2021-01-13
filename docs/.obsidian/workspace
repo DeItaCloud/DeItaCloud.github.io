@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "ad03f39433407dce",
+    "type": "split",
+    "children": [
+      {
+        "id": "049860f33aa32190",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a1eebddd766efbbc",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2ed87f0ac37a57e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ecc5e74e6493f88",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e269bee6d0dde566",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5e2fc46bee8ab002",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f025cc0f103978b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "912dffb3cbb4715b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "课程笔记/森林植物鉴定/index.md",
+    "资源汇总.md",
+    "法考/docs/2020印刷打印版.pdf",
+    "计算机视觉/index.md",
+    "课程笔记/R语言/R.md",
+    "数据挖掘/docs/多元统计分析__第4版part2.pdf",
+    "自然语言处理/index.md",
+    "法考/index.md"
+  ]
+}
