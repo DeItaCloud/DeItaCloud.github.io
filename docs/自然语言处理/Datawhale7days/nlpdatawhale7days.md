@@ -358,8 +358,7 @@ Neo4j 查询的高性能表现、易于使用的特性及其设计的灵活性�
 
 运行介绍之后，打开浏览器进入网址：[http://localhost:7474/browser/](http://localhost:7474/browser/)，可以看到我们导入的数据的知识图谱，如下：
 
-![图片.png](assets/%E5%B1%95%E7%A4%BA%E5%9B%BE.jpg)
-> 图 9 知识图谱 展示图
+
 
 
 #### 3.4 主体类 MedicalGraph 介绍
