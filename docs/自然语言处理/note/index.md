@@ -30,7 +30,7 @@
 3. 中科院NLPAPI：https://nlp.datahorizon.cn/help.cgi.html
 4. 法务nlp论文资源：https://github.com/bamtercelboo/Awesome-Law-NLP-Research-Work
 
- ### 可视化工具
+### 可视化工具
 
 1. 社会关系可视化：https://github.com/gephi/gephi
 
