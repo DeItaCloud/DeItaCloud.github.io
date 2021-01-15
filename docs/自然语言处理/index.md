@@ -27,7 +27,8 @@
 
 ## 打卡学习
 
-１．　[知识图谱打卡(0).md](./Datawhale7days/nlpdatawhale7days.md)
+1. [知识图谱打卡datawhale.md](./Datawhale7days/nlpdatawhale7days.md)
 
+### 笔记
 
-
+[NLP笔记](note/index.md)
