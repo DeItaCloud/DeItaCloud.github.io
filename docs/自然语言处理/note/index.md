@@ -40,6 +40,7 @@
 9. 知识图谱推理方法总结：https://zhuanlan.zhihu.com/p/78744231｜https://zhuanlan.zhihu.com/p/42340077｜https://my.oschina.net/u/4581664/blog/4376159
 10. 华为知识图谱介绍：https://support.huaweicloud.com/usermanual-kg/kg_01_0004.html
 11. 图数据库：https://github.com/arangodb/arangodb｜https://github.com/JanusGraph/janusgraph｜https://github.com/cayleygraph/cayley
+12. 以知识为中心的情报智能：https://www.secrss.com/articles/14281
 
 ### 可视化工具
 
