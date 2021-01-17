@@ -1247,3 +1247,11 @@ self.result["intentions"] = intentions
 ### 参考资料 
 
 1. [ QASystemOnMedicalGraph](https://github.com/zhihao-chen/QASystemOnMedicalGraph)
+
+## 打卡５
+
+教程链接：https://github.com/datawhalechina/team-learning-nlp/blob/master/KnowledgeGraph_Basic/task05.md
+
+## 总结
+
+这次的打卡学习让我认识到了建立知识问答系统的流程和实现，熟悉neo4j和命名实体识别｜意图识别的功能和任务，接下来我还需要学习，如何建立知识图谱，还有如何利用知识图谱进行知识推理．附上资料集链接：https://deitacloud.github.io/site/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/note/
