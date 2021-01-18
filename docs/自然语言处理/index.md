@@ -32,3 +32,7 @@
 ### 笔记
 
 [NLP笔记](note/index.md)
+
+## 总结
+
+[1月18日](./summary/thoughts.md)

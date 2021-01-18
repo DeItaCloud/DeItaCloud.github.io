@@ -19,6 +19,10 @@
 
 中文开放知识图谱：http://openkg.cn/home
 
+### 大佬
+
+中科院刘焕勇：https://liuhuanyong.github.io/
+
 ### 项目
 
 1. 罪名法务问答：https://github.com/liuhuanyong/CrimeKgAssitant
@@ -44,10 +48,12 @@
 
 ### 可视化工具
 
+参考：https://zhuanlan.zhihu.com/p/148990503
+
 1. 社会关系可视化：https://github.com/gephi/gephi
 
    ![](http://www.designandanalytics.com/sites/default/files/finals-directed-low.png)
 
-2. 图数据可视化与分析：https://github.com/antvis/graphin/![深度截图_选择区域_20210115213436](img/%E6%B7%B1%E5%BA%A6%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20210115213436.png)
+2. 图数据可视化与分析：https://github.com/antvis/graphin/![深度截图_选择区域_20210115213436](https://i.loli.net/2021/01/18/Kvk1G9DSJiAXfF6.png)
 
-3. Ｇ６（这个...太强大了）：https://github.com/antvis/G6
+3. Ｇ６：https://github.com/antvis/G6
